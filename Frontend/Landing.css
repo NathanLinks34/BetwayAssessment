@@ -1,0 +1,9 @@
+.landing-page {
+  background-image: url("https://cdn.betwaygroup.com/medusa-production/1001/the-hunch-mobile.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
